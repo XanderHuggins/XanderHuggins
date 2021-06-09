@@ -2,6 +2,6 @@ Hello! 👋
 
 I'm a PhD candidate at the [University of Victoria](http://www.groundwaterscienceandsustainability.org/) and the [Global Institute for Water Security](http://water.usask.ca/). 
 
-On my Github, you'll find a mix of repositories associated with manuscripts and personal data visualization projects. 
+Here, you'll find a mix of repositories associated with manuscripts and personal data visualization projects. 
 
 If you'd like to get in touch, you can reach me on [twitter](https://twitter.com/xander_huggins) or at xander.huggins@gmail.com.
