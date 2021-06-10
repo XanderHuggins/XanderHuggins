@@ -5,4 +5,5 @@ I'm a PhD candidate at the [University of Victoria](http://www.groundwaterscienc
 Here, you'll find a mix of repositories associated with manuscripts and personal data visualization projects. 
 
 If you'd like to get in touch, you can reach me on [twitter](https://twitter.com/xander_huggins) or at <xander.huggins@gmail.com>. <br/>
-And here's a link to my [cv](https://xanderhuggins.github.io/my-cv/) if interested.
+
+And, if interested, here's a link to my [cv](https://xanderhuggins.github.io/my-cv/).
