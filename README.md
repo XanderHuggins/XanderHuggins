@@ -6,4 +6,4 @@ Here, you'll find a mix of repositories associated with manuscripts and personal
 
 If you'd like to get in touch, you can reach me on [twitter](https://twitter.com/xander_huggins) or at <xanderhuggins@uvic.ca>. <br/>
 
-And, if interested, here's a link to my [cv](https://xanderhuggins.github.io/my-cv/).
+And, if interested, here's a link to my [cv](https://xanderhuggins.github.io/cv/).
