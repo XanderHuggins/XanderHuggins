@@ -1,9 +1,11 @@
-Hello! 👋 
+How does groundwater interact with social and ecological systems at large (regional to global scales)?
+How do these interactions exhibit behaviours of complex adaptive systems?
+How can groundwater sustainability be leveraged as a transformative process to underpin broader goals of social well-being, ecological integrity, social and environmental justice, and Earth system stability?
 
-I'm a PhD candidate at the [University of Victoria](http://www.groundwaterscienceandsustainability.org/) and the [Global Institute for Water Security](http://water.usask.ca/). 
+These are the questions I'm interested in exploring.
+
+I'm a NSERC and Killam Postdoctoral Research Fellow at UBC's IRES and a Postdoctoral Research Associate at Princeton's HMEI.
 
 Here, you'll find a mix of repositories associated with manuscripts and personal data visualization projects. 
 
-If you'd like to get in touch, you can reach me on [twitter](https://twitter.com/xander_huggins) or at <xanderhuggins@uvic.ca>. <br/>
-
-And, if interested, here's a link to my [personal website](https://xanderhuggins.github.io/).
+Want to work together? Reach me at xander[dot]huggins[at]ubc[dot]ca, and you can read more about me [here](https://xanderhuggins.github.io/).
